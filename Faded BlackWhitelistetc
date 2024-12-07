@@ -1,5 +1,7 @@
-return {
-    "8yx",
-    "Nick2",
-    "Nick3",
+{
+    "whitelist": [
+        "PlayerName1",
+        "PlayerName2",
+        "PlayerName3"
+    ]
 }
